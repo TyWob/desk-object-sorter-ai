@@ -29,3 +29,4 @@ A model like this could help with simple inventory tasks, organizing stuff in cl
 I thought it was cool how just a few extra images made a big difference. You don’t always need more sometimes you just need better variety.
 
 ## Screenshot
+![Model Preview](model-preview.png)
